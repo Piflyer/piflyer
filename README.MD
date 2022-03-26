@@ -6,5 +6,4 @@ I'm a teenager that enjoys writing code in my free time. I mainly focus on worki
 
 You can contact me through:
 
-* My [website's](https://thisistimnguyen.com) contact form at the very bottom
 * My email at tim@thisistim.dev
