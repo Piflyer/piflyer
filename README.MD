@@ -6,4 +6,4 @@ I'm a high school research intern at Harvard SEAS who also enjoys sailing and hi
 
 You can contact me through:
 
-* My email at tim@thisistim.dev
+* My email at tim [at] thisistim [dot] dev
