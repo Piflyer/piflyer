@@ -1,6 +1,6 @@
 # Hi, I'm Tim Nguyen.
 ![Profile](https://github.com/Piflyer/piflyer/raw/master/git-profile.png)
-I'm an undergrad at Boston University studying Statistics + Computer Science and a Research Affiliate at Harvard SEAS who also enjoys sailing and hiking. My work mainly involves working on computer vision and robotic control, but I love to explore other fields. You can see more of my work on my [website](https://thisistim.dev).
+I'm an undergrad at Boston University studying Statistics + Computer Science and an Undergraduate Research Assistant at the MIT SPARKLab. My work mainly involves working on computer vision and robotic control, but I love to explore other fields. You can see more of my work on my [website](https://thisistim.dev).
 
 ## Contact
 
